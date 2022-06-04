@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+In this project posts with their comments are fetched from API and shown. Dashboard , posts and single post are the pages to display. Redux is used for the state management and for routing react-router v6 is used.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
