@@ -3,7 +3,6 @@ import { render } from "react-dom";
 import { configureStore } from "@reduxjs/toolkit";
 import { Provider } from "react-redux";
 import reportWebVitals from "./reportWebVitals";
-
 import App from "./App";
 import rootReducer from "./slices";
 
